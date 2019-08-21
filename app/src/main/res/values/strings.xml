@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Introducción</string>
+    <string name="mi_nombre">Diego García</string>
+    <string name="TextView">TextView</string>
+    <string name="digite_texto">Digite un texto</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="requerido">El campo es requerido</string>
+</resources>
